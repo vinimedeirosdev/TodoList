@@ -1,7 +1,7 @@
 # TodoList 📃
 <p align="center">A TodoList made with ReactJS for you to write down your tasks. 📒</p>
 
-<img height="500em" src="https://github.com/ViniStrife/TodoList/blob/gh-pages/assets/animation.gif">
+<img height="500em" src="https://github.com/vinimedeirosdev/TodoList/blob/gh-pages/assets/animation.gif">
 
 ## 🔮 About:
 <p>From this list you can:</p>
